@@ -1,0 +1,5 @@
+rootProject.name = 'grpc-protobuf-minimum'
+include 'protobuf'
+include 'server'
+include 'client'
+
